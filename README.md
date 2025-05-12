@@ -22,8 +22,13 @@ A simple clone of the Netflix homepage built using **only HTML and CSS**. This p
 
 ## 📁 Folder Structure
 netflix-clone.html/
+
+
 ├── index.html
+
+
 ├── style.css
+
 └── assets
 
 
