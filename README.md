@@ -4,11 +4,12 @@ A simple clone of the Netflix homepage built using **only HTML and CSS**. This p
 
 ## 🎨 Features
 
-- Netflix-style homepage layout  
+- Netflix-style homepage layout 
 - Responsive design for different screen sizes  
 - Hover effects on movie thumbnails  
 - Clean, modern UI using pure CSS
 
+- 
 ## 🚫 Not Included
 
 - No JavaScript functionality  
