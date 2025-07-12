@@ -1,6 +1,5 @@
 # Netflix Clone (UI Only)
 
-
 A simple clone of the Netflix homepage built using **only HTML and CSS**. This project focuses purely on recreating the **visual layout and design** of Netflix — there is no backend or interactivity.
 
 ## 🎨 Features
